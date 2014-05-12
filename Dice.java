@@ -28,3 +28,5 @@ public class Dice
 		return(D1+D2+D3);
 	}
 }
+
+//// Please rework with TriDice and TripleDice classes
